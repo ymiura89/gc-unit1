@@ -1,0 +1,107 @@
+### Step 2A
+/Users/yasumiura
+
+### Step 2B
+cd Desktop
+
+### Step 2C
+cd unit1-git-practice
+
+### Step 2D
+pwd
+
+### Step 2E
+ls
+
+### Step 2F
+my-steps.txt
+
+### Step 2G
+cd ~
+cd ..
+
+### Step 2H
+pwd
+
+### Step 2I
+Applications                                    arrays.js                                       my-app.js
+Creative Cloud Files                            cli-temp                                        numbers.js
+Desktop                                         conditionals.js                                 objects.js
+Documents                                       counter.js                                      package-lock.json
+Downloads                                       from-home.txt                                   package.json
+Dropbox (Personal)                              git_basics                                      print('hello world').py
+Dropbox (Yasuhiro Miura - S&C)                  greeter.js                                      projects
+Google Drive                                    greetings.js                                    script.js
+Library                                         greetings_browers.html                          style.css
+Movies                                          hello.py                                        test.sh
+Music                                           implicit-coercion                               test.txt
+Pictures                                        implicit-coercion.js                            yasu@trainlikeahiro.com Creative Cloud Files
+Public                                          index.html
+PycharmProjects                                 mongo
+
+### Step 2J
+cd ~
+
+### Step 2K
+cd Desktop/unit1-git-practice/
+
+
+### Step 3A
+mkdir veggies meats desserts
+
+### Step 3B
+mv desserts sweats
+
+### Step 3C
+mkdir proteinsmv
+
+### Step 3D
+mv meats proteins
+
+### Step 3E
+cd veggies
+touch carrot.txt pea.txt
+
+### Step 3F
+cd ..
+cd sweats
+touch cookie.txt
+
+### Step 3G
+mv cookie.txt donut.txt
+
+
+### Step 3H
+cd ..
+touch thing.txt
+
+### Step 3I
+cp thing.txt tofu.txt
+
+### Step 3J
+mv tofu.txt proteins
+
+### Step 3K
+mv crab.txt proteins/meats/
+
+### Step 3L
+rm thing.txt
+
+### Step 3M
+cp -r veggies plants
+
+### Step 3N
+mkdir drinks
+rm -r drinks
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
