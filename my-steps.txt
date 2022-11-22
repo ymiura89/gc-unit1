@@ -95,10 +95,14 @@ mkdir drinks
 rm -r drinks
 
 ### Step 4
-
+git status
+git add .
+git commit -m "uploading practice files for unit 1"
 
 ### Step 5
-
+git remote add origin https://github.com/ymiura89/gc-unit1.git
+git branch -M main
+git push -u origin main
 
 ### Step 6
 
